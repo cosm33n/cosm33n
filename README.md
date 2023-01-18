@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Cosmin Moisa and I'm currently learning Web Development.
+### Hello, my name is Cosmin Moisa! | Frontend Developer
 
 <!--
 **cosm33n/cosm33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
