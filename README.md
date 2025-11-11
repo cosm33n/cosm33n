@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite,nodejs,express,supabase,github,git,gitlab)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite,nodejs,express,supabase,postgres,postgres,github,git,gitlab)
